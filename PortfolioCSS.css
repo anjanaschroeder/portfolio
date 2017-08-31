@@ -1,0 +1,59 @@
+button {
+	background: green;
+	font-size: 18px;
+	color: white;
+}
+textarea {
+	background-color: #FFE4E1; /* mistyrose */
+	width: 400px;
+	height: 100px;
+}
+
+ol {
+	font-size: 22px;
+	color: purple;
+}
+
+blockquote {
+	font-size: 18px;
+	font-family: Georgia;
+	color: orange;
+}
+	
+a:link { 
+	color: red; 
+}
+a:visted { 
+	color: purple; 
+}
+
+body {
+	background-image: url("images/purple-leaf2.png");
+	background-repeat: repeat-x;
+}
+
+div.background {
+	background: url("images/purple-leaf2.png");
+	opacity: 0.2;
+}
+
+img.logo {
+	width: 100px;
+	height: 100px;}
+img.Chicago {
+	width: 50px;
+	height: 50px;}
+img.Edward {
+	width: 25px;
+	height: 25px;}
+
+img.Pumpkin {
+	border-radius: 200px;
+	height: 88px;
+	width: 88px
+}
+
+
+
+
+
